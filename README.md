@@ -12,11 +12,9 @@ Built by [Ramazan Alkoyun](https://github.com/Resan-ramazan), M.Sc. Artificial I
 
 ![Job Radar overview: today's top matches, pipeline stats and the next scan](docs/jobs-overview.png)
 
-**Every top match comes with a tailored CV and cover letter.** The job page shows the score breakdown and an ATS keyword check next to the generated documents:
-
-![Job page: score breakdown, ATS keyword check and the tailored CV](docs/job-documents.png)
-
-![Application pipeline](docs/pipeline.png)
+| Application pipeline | Job analysis with tailored CV |
+|---|---|
+| ![Pipeline board](docs/pipeline.png) | ![Job page: score breakdown, ATS keyword check and the tailored CV](docs/job-documents.png) |
 
 <sub>Screenshots use fictional demo data (`python3 docs/make_demo_data.py`): the candidate "Alex Example" and Microsoft's sample company names.</sub>
 
