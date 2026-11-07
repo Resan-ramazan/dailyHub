@@ -17,6 +17,7 @@
 
 ## Skills (all evidenced)
 - Languages: Python, TypeScript, JavaScript
+- AI: LLM APIs, prompt design, structured JSON output
 - Frontend: React, HTML5, CSS3
 - Backend/Data: Node.js, REST APIs, PostgreSQL
 - Tools: Git, GitHub, Docker
@@ -25,6 +26,7 @@
 1. Software Engineering Intern, Example GmbH, Hamburg (Mar–Aug 2025): React dashboard, REST API integration, unit tests.
 
 ## Projects
+- LLM Study Buddy (2025): Python app that sends lecture notes to an LLM API and turns the answers into quiz questions (structured JSON output).
 - Weather CLI (2024): Python command-line tool that calls a public weather API and caches results.
 
 ## Education
