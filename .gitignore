@@ -10,3 +10,5 @@ News/
 Lessons/
 Personal/
 **/logs/
+next-env.d.ts
+*.tsbuildinfo

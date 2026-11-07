@@ -10,6 +10,14 @@ Everything shows up in a local Next.js dashboard, together with an application p
 
 Built by [Ramazan Alkoyun](https://github.com/Resan-ramazan), M.Sc. Artificial Intelligence student. Developed AI-first: the code was written together with coding agents (Claude Code), and the system itself orchestrates LLM agents.
 
+![Job Radar overview: today's top matches, pipeline stats and the next scan](docs/jobs-overview.png)
+
+| Application pipeline | Job analysis with ATS keyword check |
+|---|---|
+| ![Pipeline board](docs/pipeline.png) | ![Job analysis](docs/job-analysis.png) |
+
+<sub>Screenshots use fictional demo data.</sub>
+
 ## How it works
 
 ```mermaid
