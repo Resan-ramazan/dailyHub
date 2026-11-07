@@ -1,0 +1,225 @@
+{
+ "_comment": "Companies whose own job systems are read every morning. Add a line to add a company. ats = greenhouse | lever | ashby | personio | recruitee; slug = the name in the company's job-board URL.",
+ "companies": [
+  {
+   "slug": "constructortech",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "isaraerospace",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "1komma5grad",
+   "ats": "personio"
+  },
+  {
+   "slug": "hellofresh",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "n26",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "contentful",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "babbel",
+   "ats": "ashby"
+  },
+  {
+   "slug": "celonis",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "sumup",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "adjust",
+   "ats": "recruitee"
+  },
+  {
+   "slug": "raisin",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "enpal",
+   "ats": "ashby"
+  },
+  {
+   "slug": "moia",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "freenow",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "flix",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "solarisbank",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "commercetools",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "helsing",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "alephalpha",
+   "ats": "ashby"
+  },
+  {
+   "slug": "deepl",
+   "ats": "ashby"
+  },
+  {
+   "slug": "parloa",
+   "ats": "ashby"
+  },
+  {
+   "slug": "finoa",
+   "ats": "personio"
+  },
+  {
+   "slug": "appinio",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "tonies",
+   "ats": "ashby"
+  },
+  {
+   "slug": "merantix",
+   "ats": "personio"
+  },
+  {
+   "slug": "langdock",
+   "ats": "ashby"
+  },
+  {
+   "slug": "n8n",
+   "ats": "ashby"
+  },
+  {
+   "slug": "elevenlabs",
+   "ats": "ashby"
+  },
+  {
+   "slug": "weaviate",
+   "ats": "ashby"
+  },
+  {
+   "slug": "neuraflash",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "tacto",
+   "ats": "ashby"
+  },
+  {
+   "slug": "miro",
+   "ats": "ashby"
+  },
+  {
+   "slug": "datadog",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "figma",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "doctolib",
+   "ats": "ashby"
+  },
+  {
+   "slug": "moss",
+   "ats": "ashby"
+  },
+  {
+   "slug": "pliant",
+   "ats": "ashby"
+  },
+  {
+   "slug": "agicap",
+   "ats": "lever"
+  },
+  {
+   "slug": "statista",
+   "ats": "ashby"
+  },
+  {
+   "slug": "ottonova",
+   "ats": "personio"
+  },
+  {
+   "slug": "clark",
+   "ats": "personio"
+  },
+  {
+   "slug": "konux",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "twaice",
+   "ats": "personio"
+  },
+  {
+   "slug": "idnow",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "codecentric",
+   "ats": "personio"
+  },
+  {
+   "slug": "adesso",
+   "ats": "recruitee"
+  },
+  {
+   "slug": "thoughtworks",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "valtech",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "wunderflats",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "cosuno",
+   "ats": "ashby"
+  },
+  {
+   "slug": "buynomics",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "upvest",
+   "ats": "ashby"
+  },
+  {
+   "slug": "bitpanda",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "vay",
+   "ats": "greenhouse"
+  },
+  {
+   "slug": "ecoligo",
+   "ats": "personio"
+  }
+ ]
+}

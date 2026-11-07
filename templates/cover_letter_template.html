@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cover Letter</title>
+<!--
+  TEMPLATE. The daily agent copies this file and replaces every {{PLACEHOLDER}}.
+  Keep it to ONE page, 3–4 short paragraphs, plain text (ATS-friendly).
+  Write in the language of the job ad (English or German).
+-->
+<style>
+  @page { size: A4; margin: 20mm 20mm 18mm 20mm; }
+  body { font-family: Arial, Helvetica, sans-serif; font-size: 10.8pt; line-height: 1.5; color: #111; margin: 0; }
+  .sender { margin-bottom: 14pt; }
+  .sender strong { font-size: 13pt; }
+  .recipient { margin-bottom: 14pt; }
+  .date { text-align: right; margin-bottom: 14pt; }
+  .subject { font-weight: bold; margin-bottom: 12pt; }
+  p { margin: 0 0 9pt 0; text-align: left; }
+</style>
+</head>
+<body>
+<div class="sender">
+  <strong>{{FULL_NAME}}</strong><br>
+  {{CITY}} | {{PHONE}} | {{EMAIL}}<br>
+  {{LINKEDIN}} | {{GITHUB}}
+</div>
+
+<div class="recipient">
+  {{COMPANY_NAME}}<br>
+  {{CONTACT_PERSON_OR_HIRING_TEAM}}<br>
+  {{COMPANY_CITY}}
+</div>
+
+<div class="date">{{CITY_AND_DATE}}</div>
+
+<div class="subject">{{SUBJECT_LINE e.g. "Application: Working Student Frontend Development (m/f/d) – Ref. 1234"}}</div>
+
+<p>{{SALUTATION}}</p>
+
+<p>{{PARAGRAPH_1_HOOK: why this company/role specifically + who I am (from the profile)}}</p>
+
+<p>{{PARAGRAPH_2_EVIDENCE: 2–3 concrete facts from master_profile.md that match the top requirements of the ad}}</p>
+
+<p>{{PARAGRAPH_3_FIT_AND_AVAILABILITY: what I'd contribute, availability (up to 20 h/week during semester), start date}}</p>
+
+<p>{{CLOSING_SENTENCE}}</p>
+
+<p>{{SIGN_OFF}}<br>{{FULL_NAME}}</p>
+</body>
+</html>

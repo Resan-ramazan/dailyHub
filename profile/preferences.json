@@ -1,0 +1,19 @@
+{
+  "_comment": "Edit freely. The daily agent and fetch_jobs.py read this file.",
+  "home_city": "Lübeck",
+  "preferred_locations": ["Lübeck", "Hamburg", "Kiel", "Remote (Germany)"],
+  "acceptable_locations": ["Bremen", "Berlin", "Hannover", "Remote"],
+  "job_types": ["Junior (full-time)", "Entry level", "Graduate", "Werkstudent", "Working Student", "Praktikum", "Internship", "Studentische Hilfskraft", "HiWi", "Junior (part-time)"],
+  "search_keywords": [
+    "Werkstudent Softwareentwicklung", "Werkstudent Frontend", "Werkstudent React",
+    "Working Student Software Engineer", "Working Student Frontend", "Werkstudent Künstliche Intelligenz",
+    "Working Student AI", "Werkstudent Machine Learning", "Werkstudent Data", "Werkstudent Web Development",
+    "Werkstudent Mobile App React Native", "Frontend Intern", "Software Engineering Intern"
+  ],
+  "title_keywords": ["werkstudent", "working student", "student", "intern", "praktik", "hiwi", "hilfskraft", "junior", "trainee", "entry", "graduate", "absolvent", "einsteiger", "berufseinstieg"],
+  "field_keywords": ["software", "frontend", "front-end", "react", "javascript", "typescript", "web", "fullstack", "full-stack", "mobile", "app", "python", "ai", "ki", "machine learning", "data", "developer", "entwickl", "engineer", "qa", "it"],
+  "exclude_keywords": ["senior", "sr.", "sr ", "expert", "architect", "director", "principal", "mid-level", "mid level", "lead", "principal", "head of", "staff ", "manager", "sales", "verkauf", "finance", "marketing", "recruit", "talent", "legal", "accounting"],
+  "language": {"english_ok": true, "german_level": "A2"},
+  "top_n": 5,
+  "max_jobs_in_report": 40
+}

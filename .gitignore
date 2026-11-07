@@ -1,0 +1,12 @@
+# Personal data stays local: profile, CV and everything the automations write.
+.env
+.DS_Store
+__pycache__/
+node_modules/
+.next/
+.locks/
+Jobs/
+News/
+Lessons/
+Personal/
+**/logs/
